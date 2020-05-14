@@ -1,1 +1,2 @@
 Hi, my name is Avneet Singh and my Student id is 300304240
+This is Lab 1 of Software Engneering course
